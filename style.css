@@ -8,11 +8,11 @@ body {
   font-family: 'Montserrat', sans-serif;
 }
 
-hr {
+/* hr {
   max-width: 200px;
   border-width: 6px;
   border-color: #F05F44; 
-}
+} */
 
 .faded {
   color: rgba(255, 255, 255, 0.8); 
